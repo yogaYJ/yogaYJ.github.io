@@ -1,2 +1,2 @@
 # yogaYJ.github.io
-yoga blog
+Yoga's online notebook
