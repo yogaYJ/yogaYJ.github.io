@@ -9,7 +9,7 @@
 
 [ENGLISH STUDY]()
 
-* [Chapter 1 and 2](english/note1and2.md)
+* [Chapter 1 and 2](english/note1&2.md)
 
 
 
