@@ -9,11 +9,8 @@
 
 [ENGLISH STUDY]()
 
-* [第一二讲](english/note1&2.md)
+* [Chapter 1 and 2](english/note1and2.md)
 
-
-
-[HOME](http://verse.ust.hk/zlong/)
 
 
 [gimmick:theme](yeti)
