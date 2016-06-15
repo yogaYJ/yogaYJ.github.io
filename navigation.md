@@ -16,7 +16,7 @@
 
 
 [gimmick:theme](yeti)
-[gimmick:Disqus](zlongust)
+[gimmick:Disqus](yoga)
 <!-- mathjax config similar to math.stackexchange -->
 
 <script type="text/x-mathjax-config">
