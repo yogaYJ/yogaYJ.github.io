@@ -17,7 +17,7 @@
 
 [gimmick:theme](yeti)
 [gimmick: math]()
-[gimmick:Disqus](zlongust)
+[gimmick:Disqus]()
 <!-- mathjax config similar to math.stackexchange -->
 
 <script type="text/x-mathjax-config">
