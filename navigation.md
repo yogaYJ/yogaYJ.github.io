@@ -10,9 +10,15 @@
 
 * [Chapter 1 and 2](english/note1&2.md)
 * [Chapter 3 and 4](english/note3&4.md)
+* [Chapter 5 and 6](english/note5&6.md)
+* [Chapter 7 and 8](english/note7&8.md)
+* [Chapter 9 and 10](english/note9&10.md)
+* [Chapter 11 and 12](english/note11&12.md)
+
+[Phonetic Phonics]()
 
 
-
+[Grim's Law]()
 
 
 [gimmick:theme](yeti)
