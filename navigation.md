@@ -18,6 +18,9 @@
 * [Chapter 15 and 16](english/note15&16.md)
 * [Chapter 17 and 18](english/note17&18.md)
 * [Chapter 19 to 21](english/note19-21.md)
+* [Thoughts about videos](english/thoughts.md)
+* [Colorful Equations with Mathjax](english/Colorful Equations with MathJax.md)
+* [Transform Colorful Equations](english/transform colorful equations.md)
 
 
 [Phonetic Phonics]()
